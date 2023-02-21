@@ -1,0 +1,59 @@
+ h1{
+    color: rgb(64, 6, 79); 
+    text-align: center;
+    font-size: 43px;
+ }
+ .block-image-navbar{
+    display: flex;
+    color: rgb(34, 42, 111); 
+    
+ }
+ 
+  .second-block{
+    display: flex;
+    order: 3;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+  }
+
+.block-image{
+    display: flex;
+    justify-content: flex-start;
+}
+ .block{
+    display: block;
+    text-align: center;
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+}
+.block_1{
+    margin-left: 10px;
+}
+ 
+.menu_link {
+  text-align: end;
+}
+
+li a {
+  border: 1px solid rgb(9, 48, 176);
+  color: rgb(4, 16, 85);
+  text-decoration: none;
+  display: block;
+  padding: 13px;
+  text-transform: uppercase;
+}
+
+li a:hover {
+  background: rgba(83, 127, 180, 0.47);
+}
+ 
+li {
+  display: inline-block;
+  margin-left: 0.3%;
+  margin-right: 0.3%;
+  margin-top: 0.5%;
+}
+.header {
+  text-align: end;
+  padding-right: 15%;
+}
